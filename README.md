@@ -1,4 +1,5 @@
 # uncrustify
 uncrustify config
 
-`ln -sf ~/dotfiles/uncrustify/uncrustify.cfg ~/.uncrustify.cfg`
+1. `sudo apt-get install uncrustify`
+2. `ln -sf ~/dotfiles/uncrustify/uncrustify.cfg ~/.uncrustify.cfg`
